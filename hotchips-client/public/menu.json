@@ -1,0 +1,114 @@
+[
+  {
+    "_id": "642c155b2c4774f05c36eeaa",
+    "name": "Masala potato chips",
+    "recipe": "Satisfy your savory cravings with our Masala Potato Chips. Thinly sliced potatoes are kettle-cooked to perfection and seasoned with a spicy masala blend",
+    "image": "https://www.shreemithai.com/cdn/shop/products/masala-potato-chips-171188.jpg?v=1707819995&width=1200",
+    "category": "salad",
+    "price": 14.7
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeb9",
+    "name": "Jally Chips",
+    "recipe": "Satisfy your savory cravings with our Tomato flavoured Potato Chips. Thinly sliced potatoes are kettle-cooked to perfection and seasoned with a spicy masala blend",
+    "image": "https://hindi.cdn.zeenews.com/hindi/sites/default/files/styles/zm_700x400/public/2022/08/13/1266093-chips-lines.jpg?itok=-P0qGsq_",
+    "category": "drinks",
+    "price": 14.7
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee7c",
+    "name": "Aloo Lacha",
+    "recipe": "Aloo Lachha Crunchy, spiced potato sticks with curry leaves and peanut without Masala",
+    "image": "https://5.imimg.com/data5/QL/KN/UP/SELLER-59011749/raw-aloo-lachha.jpg ",
+    "category": "popular",
+    "price": 14.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee88",
+    "name": "Aloo Lacha Masala",
+    "recipe": "Aloo Lachha Crunchy, spiced potato sticks with curry leaves and peanut with Mirch  Masala",
+    "image": "https://5.imimg.com/data5/QL/KN/UP/SELLER-59011749/raw-aloo-lachha.jpg",
+    "category": "dessert",
+    "price": 12.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee7a",
+    "name": "Aloo Kadipatha Chips",
+    "recipe": "Potatoes fried deeply with Sunflower Oil and added Spices, Curry Leaves and Salt.",
+    "image": "https://static.wixstatic.com/media/f9aeaa_a80919a86e4141a0957220fa6ff3ed18~mv2.jpg/v1/fill/w_232,h_232,usm_1.20_1.00_0.01/file.webp",
+    "category": "popular",
+    "price": 14.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee74",
+    "name": "Aloo Ginger Chips",
+    "recipe": "Potatoes fried deeply with Sunflower Oil, added with Ginger, Garlic, Salt, Spices and Condiments.",
+    "image": "https://static.wixstatic.com/media/f9aeaa_f9ef01035cfc40218f4bec061c09b853~mv2.jpg/v1/fill/w_232,h_232,usm_1.20_1.00_0.01/file.webp",
+    "category": "popular",
+    "price": 14.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee712",
+    "name": "Aloo Palak Chips",
+    "recipe": "Potatoes fried deeply with Sunflower Oil, added with Pudina, GInger, Garlic, Salt, Spices and Condiments.",
+    "image": "https://static.wixstatic.com/media/f9aeaa_1e01b6a47a60427c9dad8b3e8fd2b5d6~mv2.jpg/v1/fill/w_232,h_232,usm_1.20_1.00_0.01/file.webp",
+    "category": "popular",
+    "price": 14.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee7x",
+    "name": "Banana Chips",
+    "recipe": "Banana Nendran fried deeply with Coconut Oil, added with Salt.",
+    "image": "https://static.wixstatic.com/media/f9aeaa_910a4d72533940ed8242052937985db3~mv2.jpg/v1/fill/w_232,h_232,usm_1.20_1.00_0.01/file.webp",
+    "category": "popular",
+    "price": 14.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee8c",
+    "name": "Pepper Banana Chips",
+    "recipe": "Banana fried deeply with Sunflower Oil, added with Pepper and Salt",
+    "image": "https://static.wixstatic.com/media/f9aeaa_2102613006df4c199660392974993d96~mv2.jpg/v1/fill/w_232,h_232,usm_1.20_1.00_0.01/file.webp",
+    "category": "dessert",
+    "price": 12.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee94",
+    "name": "Banana Chips (Red Chilli)",
+    "recipe": "Banana fried deeply with Sunflower Oil, added with Chilly Powder, Salt and Spices.",
+    "image": "https://static.wixstatic.com/media/f9aeaa_b5dfcf5708d84df6820ffaa52dc9ebc8~mv2.jpg/v1/fill/w_232,h_232,usm_1.20_1.00_0.01/file.webp",
+    "category": "pizza",
+    "price": 12.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee9e",
+    "name": "Bitter Guard Chips",
+    "recipe": "Bitter gourd fried deeply with Edible Oil, added with Salt, Spices and Condiments.",
+    "image": "https://static.wixstatic.com/media/f9aeaa_2e6d95c4fe6f43ad87a7bc8b29202ac0~mv2.jpg/v1/fill/w_232,h_232,usm_1.20_1.00_0.01/file.webp",
+    "category": "pizza",
+    "price": 12.9
+  },
+  {
+    "_id": "642c155b2c4774f05c36eea6",
+    "name": "Tapioca Chips",
+    "recipe": "Tapioca fried deeply with Edible Oil, added with Chilly Powder and Salt",
+    "image": "https://static.wixstatic.com/media/f9aeaa_3738b201de8044b49d0da25a60db1bb6~mv2.jpeg/v1/fill/w_232,h_232,usm_1.20_1.00_0.01/file.webp",
+    "category": "salad",
+    "price": 13.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36eeaf",
+    "name": "Round Chakli",
+    "recipe": "Rice Flour, Urad Dal, Chilly Powder, Edible Oil, Salt, Asafetida, Spices and Condiments",
+    "image": "https://static.wixstatic.com/media/f9aeaa_c7d274069e9f47f2b639083305a9ae53~mv2.jpg/v1/fill/w_232,h_232,usm_1.20_1.00_0.01/file.webp",
+    "category": "soup",
+    "price": 12.5
+  },
+  {
+    "_id": "642c155b2c4774f05c36ee89",
+    "name": "Butter Chakli",
+    "recipe": "Protein rich Bengal gram flour, Rice flour for the crunch, Soothing asafoetida, A dash of cow butter",
+    "image": "data:image/jpeg;base64,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",
+    "category": "dessert",
+    "price": 13.5
+  }
+]
